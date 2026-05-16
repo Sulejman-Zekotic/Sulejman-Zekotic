@@ -103,7 +103,8 @@ Modern cosmetic e-commerce platform with advanced product management and admin f
 - Azure
 
 ### Links
-- Repository: https://github.com/Sulejman-Zekotic/your-repo
+- Repository: https://github.com/Sulejman-Zekotic/moonlight-cinema
+- Repository: https://github.com/Sulejman-Zekotic/meditrack
 
 ---
 
