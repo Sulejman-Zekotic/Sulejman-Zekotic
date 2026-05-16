@@ -42,7 +42,7 @@ Password: Clinic123!
 
 ### Links
 - Live Demo: https://lively-sky-051d74603.7.azurestaticapps.net
-- Repository: https://github.com/Sulejman-Zekotic/ClinicApp
+- Repository: https://github.com/Sulejman-Zekotic/meditrack
 
 ---
 
@@ -77,60 +77,9 @@ Email: user@moonlightcinema.local
 Password: User1234!
 
 ### Links
-- Live Demo: https://moonlightcinema-afgwhdb4ffhpcsh7.northeurope-01.azurewebsites.net/
-- Repository: https://github.com/Sulejman-Zekotic/MoonlightCinema
-
----
-
-## Lily's Cosmetic Market
-
-Modern cosmetic e-commerce platform with advanced product management and admin functionality.
-
-### Features
-- Product catalog & filtering
-- Categories & subcategories
-- Product variants
-- Admin dashboard
-- Role-based access
-- REST API architecture
-- Responsive UI
-
-### Tech Stack
-- ASP.NET Core
-- Angular
-- SQL Server
-- Entity Framework Core
-- Azure
-
-### Links
+- Live Demo: https://moonlightcinema-afgwhdb4ffhpcsh7.northeurope-01.azurewebsites.net
 - Repository: https://github.com/Sulejman-Zekotic/moonlight-cinema
-- Repository: https://github.com/Sulejman-Zekotic/meditrack
 
----
-
-# Technologies
-
-## Backend
-- ASP.NET Core
-- Entity Framework Core
-- SQL Server
-- REST APIs
-- JWT Authentication
-
-## Frontend
-- Angular
-- TypeScript
-- HTML/CSS
-- Angular Material
-- Responsive Design
-
-## Cloud & Tools
-- Azure
-- Git & GitHub
-- Swagger
-- VS Code
-
----
 
 # Currently Learning
 - Advanced Angular architecture
